@@ -1,4 +1,4 @@
-# OOP & SOLID – Complete Practical Guide
+# OOP & SOLID – Practical Guide
 
 ## Overview
 
@@ -18,7 +18,6 @@ This repository is designed for:
 * Junior PHP developers
 * Backend developers using PHP or Laravel
 * Developers who understand basic PHP but struggle with OOP or SOLID
-* Anyone who wants to move from junior to advanced level in backend development
 
 ---
 
@@ -46,15 +45,6 @@ These topics are explained from the ground up and build on each other step by st
 
 Each principle is explained with clear PHP examples, including bad implementations and improved solutions.
 
-### Real World Examples
-
-* Payment systems
-* Notification systems
-* User management
-* Clean and scalable architecture examples
-
-All examples are written in pure PHP and reflect real problems found in professional projects.
-
 ---
 
 ## Repository Structure
@@ -72,20 +62,14 @@ oop-solid-guide/
 │       └── 07-advanced.md
 │
 ├───── 02-solid/
+│       ├── notes.md
 │       ├── 01-single-responsibility.md
 │       ├── 02-open-closed.md
 │       ├── 03-liskov.md
 │       ├── 04-interface-segregation.md
 │       └── 05-dependency-inversion.md
 │
-├───── 03-laravel-ideas/
-│       ├── 01-user-management.md
-│       ├── 02-notification-system.md
-│       ├── 03-payment-module.md
-│       └── 04-other-ideas.md
-│
 └─────── README.md
-
 ```
 
 ---
@@ -125,4 +109,8 @@ You can contribute by:
 
 ## Getting Started
 
-Begin with the folder 01-oop-basics and follow the repository step by step.
+Begin with the folder `01-oop-basics` and follow the repository step by step.
+
+---
+
+**Note:** The content, formatting, and phrasing in this repository were assisted and refined using AI tools to ensure clarity, proper structure, and readability.
