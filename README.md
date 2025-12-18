@@ -62,20 +62,30 @@ All examples are written in pure PHP and reflect real problems found in professi
 ```bash
 oop-solid-guide/
 │
-├── 01-oop-basics/
-├── 02-encapsulation/
-├── 03-inheritance/
-├── 04-polymorphism/
-├── 05-abstraction/
+├───── 01-oop-basics/
+│       ├── 01-basics.md
+│       ├── 02-encapsulation.md
+│       ├── 03-inheritance.md
+│       ├── 04-polymorphism.md
+│       ├── 05-abstraction.md
+│       ├── 06-notes.md
+│       └── 07-advanced.md
 │
-├── 06-solid/
-│   ├── 01-single-responsibility/
-│   ├── 02-open-closed/
-│   ├── 03-liskov/
-│   ├── 04-interface-segregation/
-│   ├── 05-dependency-inversion/
+├───── 02-solid/
+│       ├── 01-single-responsibility.md
+│       ├── 02-open-closed.md
+│       ├── 03-liskov.md
+│       ├── 04-interface-segregation.md
+│       └── 05-dependency-inversion.md
 │
-└── real-world-examples/
+├───── 03-laravel-ideas/
+│       ├── 01-user-management.md
+│       ├── 02-notification-system.md
+│       ├── 03-payment-module.md
+│       └── 04-other-ideas.md
+│
+└─────── README.md
+
 ```
 
 ---
